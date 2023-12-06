@@ -34,7 +34,9 @@
     padding: 4px 10px;
     border-radius: 8px;
     border: 1px solid #400;
-    border-color: aliceblue;
+    color: slategray;
+    border-color: slategray;
+    background-color: slategray;
     display: block;
   }
 
